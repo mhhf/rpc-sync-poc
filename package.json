@@ -1,0 +1,18 @@
+{
+  "name": "ethvm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "async": "^1.5.2",
+    "ethereumjs-block": "^1.2.1",
+    "ethereumjs-vm": "^1.1.0",
+    "web3": "^0.15.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
